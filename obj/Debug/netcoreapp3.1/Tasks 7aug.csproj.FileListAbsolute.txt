@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\bin\Debug\netcoreapp3.1\Tasks 7aug.exe
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\bin\Debug\netcoreapp3.1\Tasks 7aug.deps.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\bin\Debug\netcoreapp3.1\Tasks 7aug.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\bin\Debug\netcoreapp3.1\Tasks 7aug.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\bin\Debug\netcoreapp3.1\Tasks 7aug.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\bin\Debug\netcoreapp3.1\Tasks 7aug.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\Tasks 7aug\obj\Debug\netcoreapp3.1\Tasks 7aug.genruntimeconfig.cache
